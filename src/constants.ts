@@ -1,0 +1,2 @@
+export const API_URL= "https://script.google.com/macros/s/AKfycbxM7NJIaHJm3chCZTOFEYURMOYw8OQjqP3vNuqJQgVmrievAL6PJLtGZdEoNmuoLZgCqA/exec";
+export const DOC_URL = "https://share.baikalelectronics.ru/index.php/s/"
